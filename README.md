@@ -33,7 +33,6 @@
 
 **Programming**
 
-<img align="right" src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Angular.js-E23237?logo=angularjs&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
