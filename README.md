@@ -1,7 +1,7 @@
 ## Hi :wave: I'm Daniel Teixeira
 
 
-### Hobbies
+### Skills (My Hobbies)
 
 **Programming**
 
