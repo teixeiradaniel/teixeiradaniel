@@ -57,10 +57,10 @@
 
 <img align="right" src="https://img.shields.io/badge/Rest-000000?logo=json&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 
 **Others**
 
