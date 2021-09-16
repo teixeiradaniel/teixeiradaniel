@@ -20,7 +20,7 @@
 
 **Databases**
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-f80000?logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 
 
 **Others**
